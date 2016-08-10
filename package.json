@@ -1,0 +1,29 @@
+{
+    "author": "mpcarolin@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "walkalarm",
+    "pebble": {
+        "capabilities": [
+            "health"
+        ],
+        "displayName": "Walk to Wake Alarm",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "6b97bb85-dd95-4d24-bcf9-0beb5725f657",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
